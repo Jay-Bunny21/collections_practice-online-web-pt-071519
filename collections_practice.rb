@@ -8,8 +8,6 @@ end
 
 def sort_array_char_count(i)
   i.sort do |a, b|
-  a <=> b
-  i.size
   end
 end
 
@@ -18,8 +16,8 @@ def swap_elements
   
 end
 
-def reverse_array
-  
+def reverse_array(array)
+  array.reverse
 end
 
 def kesha_maker
