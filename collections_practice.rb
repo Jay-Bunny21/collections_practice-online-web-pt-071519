@@ -8,7 +8,7 @@ end
 
 def sort_array_char_count(i)
   i.sort do |a, b|
-    a<=>b.size
+    a<=>
   end
 end
 
