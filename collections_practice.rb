@@ -7,7 +7,7 @@ num.sort.reverse
 end
 
 def sort_array_char_count(i)
-  i.
+  i.sort do |a, b, c|
 end
 
 
